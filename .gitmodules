@@ -1,0 +1,36 @@
+[submodule "ckan"]
+	path = ckan
+	url = https://github.com/deniszgonjanin/ckan.git
+	branch = ottawa-tmp
+[submodule "ckanext-apihelper"]
+	path = ckanext-apihelper
+	url = git@github.com:deniszgonjanin/ckanext-apihelper.git
+	branch = bilingual-get-actions
+[submodule "ckanext-fluent"]
+	path = ckanext-fluent
+	url = https://github.com/open-data/ckanext-fluent.git
+	branch = master
+[submodule "ckanext-geojsonview"]
+	path = ckanext-geojsonview
+	url = https://github.com/deniszgonjanin/ckanext-geojsonview.git
+	branch = master
+[submodule "ckanext-ottawa"]
+	path = ckanext-ottawa
+	url = https://github.com/deniszgonjanin/ckanext-ottawa.git
+	branch = master
+[submodule "ckanext-pages"]
+	path = ckanext-pages
+	url = git@github.com:deniszgonjanin/ckanext-pages.git
+	branch = bilingual
+[submodule "ckanext-scheming"]
+	path = ckanext-scheming
+	url = https://github.com/open-data/ckanext-scheming.git
+	branch = master
+[submodule "ckanext-webhooks"]
+	path = ckanext-webhooks
+	url = https://github.com/deniszgonjanin/ckanext-webhooks.git
+	branch = master
+[submodule "ckanext-wet-boew"]
+	path = ckanext-wet-boew
+	url = git@github.com:deniszgonjanin/ckanext-wet-boew.git
+	branch = wet4-scheming

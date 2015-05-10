@@ -1,0 +1,5 @@
+[datacats]
+name = ottawa
+ckan_version = master
+port = 5698
+
