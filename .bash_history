@@ -64,3 +64,7 @@ exit
 cd /scripts/
 ls
 exit
+pip --version
+pip install markdown
+pip --version
+exit
