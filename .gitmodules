@@ -1,7 +1,7 @@
 [submodule "ckan"]
 	path = ckan
-	url = https://github.com/deniszgonjanin/ckan.git
-	branch = ottawa-tmp
+	url = https://github.com/ckan/ckan.git
+	branch = master
 [submodule "ckanext-apihelper"]
 	path = ckanext-apihelper
 	url = git@github.com:deniszgonjanin/ckanext-apihelper.git
@@ -34,3 +34,6 @@
 	path = ckanext-wet-boew
 	url = git@github.com:deniszgonjanin/ckanext-wet-boew.git
 	branch = wet4-scheming
+[submodule "ckanext-featuredviews"]
+	path = ckanext-featuredviews
+	url = https://github.com/deniszgonjanin/ckanext-featuredviews.git

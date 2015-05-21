@@ -68,3 +68,12 @@ pip --version
 pip install markdown
 pip --version
 exit
+ping google.com
+ping boot2docker
+ping 0.0.0.0:8800
+curl 0.0.0.0:8800
+wget 0.0.0.0:8800
+wget http://192.168.59.103:8800
+exit
+ping boot2docker
+exit
